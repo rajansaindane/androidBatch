@@ -1,0 +1,1 @@
+include ':app', ':layouts', ':buttonsandbox', ':interactivity', ':intentdemo', ':imagedemo', ':adapterview', ':fragmentdemo', ':navigationdrawerdemo'

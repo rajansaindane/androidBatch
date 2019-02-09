@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DecAndroid</string>
+    <string name="welcome">Welcome</string>
+    <string name="helloword">helloword</string>
+</resources>

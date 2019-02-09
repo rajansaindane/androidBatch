@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/adapterview/adapterview.iml" filepath="$PROJECT_DIR$/adapterview/adapterview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidBatch.iml" filepath="$PROJECT_DIR$/androidBatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buttonsandbox/buttonsandbox.iml" filepath="$PROJECT_DIR$/buttonsandbox/buttonsandbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragmentdemo/fragmentdemo.iml" filepath="$PROJECT_DIR$/fragmentdemo/fragmentdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imagedemo/imagedemo.iml" filepath="$PROJECT_DIR$/imagedemo/imagedemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intentdemo/intentdemo.iml" filepath="$PROJECT_DIR$/intentdemo/intentdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interactivity/interactivity.iml" filepath="$PROJECT_DIR$/interactivity/interactivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/layouts/layouts.iml" filepath="$PROJECT_DIR$/layouts/layouts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/navigationdrawerdemo/navigationdrawerdemo.iml" filepath="$PROJECT_DIR$/navigationdrawerdemo/navigationdrawerdemo.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AdapterView</string>
+    <string name="tech">Technology</string>
+    <string-array name="technologies">
+        <item>C</item>
+        <item>Cpp</item>
+        <item>Java</item>
+        <item>Android</item>
+        <item>Python</item>
+        <item>Angular</item>
+    </string-array>
+</resources>
